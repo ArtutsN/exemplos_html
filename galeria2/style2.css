@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left{
+    width: 30%;
+    margin-right: 5px;
+}
+
+.pair1{
+    width: 100%;
+    height: 450px;
+    background-color: lightgray;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.pair2{
+    width: 69%;
+    height: 907px;
+    background-color: lightgray;
+    border: 1px solid black;
+}

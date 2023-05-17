@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pair-1{
+    background-color: lightgray;
+    width: 50%;
+    height: 1000px;
+    border: 1px solid black;
+}
+
+.pair-2{
+    background-color: lightgray;
+    width: 50%;
+    height: 1000px;
+    border: 1px solid black;
+    margin-left: -4px;
+}
